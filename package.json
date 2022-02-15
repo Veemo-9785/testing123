@@ -30,6 +30,6 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
-    "a-testing-package-by-veemo": "^1.0.0"
+    "a-testing-package-by-veemo": "^1.0.3"
   }
 }
